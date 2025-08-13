@@ -40,9 +40,6 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aws/aws-icons/master/Architecture-Service-Icons/Arch_AWS-CloudFormation_48.svg" alt="AWS CloudFormation" width="40" height="40"/>
-  </a>
 
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -89,44 +86,10 @@
   <a href="https://www.nagios.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="Nagios" width="40" height="40" style="background:#fff; padding:4px; border-radius:8px;"/>
   </a>
-  <a href="https://icinga.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Icinga_Logo.svg" alt="Icinga" width="40" height="40" style="background:#fff; padding:4px; border-radius:8px;"/>
-  </a>
-
-  <!-- Security -->
-  <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tenable/tenable-icon.svg" alt="Nessus Professional" width="40" height="40"/>
-  </a>
-  <a href="https://goteleport.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/13284804?s=200&v=4" alt="Teleport" width="40" height="40" style="background:#fff; padding:4px; border-radius:8px;"/>
-  </a>
-  <a href="https://aws.amazon.com/vpn/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aws/aws-icons/master/Architecture-Service-Icons/Arch_AWS-Client-VPN_48.svg" alt="AWS VPN" width="40" height="40"/>
-  </a>
-  <a href="https://pritunl.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pritunl_logo.png/512px-Pritunl_logo.png" alt="Pritunl" width="40" height="40" style="background:#fff; padding:4px; border-radius:8px;"/>
-  </a>
-
-  <!-- IoT -->
-  <a href="https://aws.amazon.com/iot-core/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aws/aws-icons/master/Architecture-Service-Icons/Arch_AWS-IoT-Core_48.svg" alt="AWS IoT Core" width="40" height="40"/>
-  </a>
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
-    <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-black.svg" alt="ESP32" width="40" height="40" style="background:#fff; padding:4px; border-radius:8px;"/>
-  </a>
-  <a href="https://www.raspberrypi.com/products/raspberry-pi-pico/" target="_blank" rel="noreferrer">
-    <img src="https://www.raspberrypi.com/app/uploads/2018/03/Raspberry-Pi-Logo.png" alt="Raspberry Pi Pico" width="40" height="40"/>
-  </a>
 
   <!-- CI/CD -->
   <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Workflows" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/codepipeline/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aws/aws-icons/master/Architecture-Service-Icons/Arch_AWS-CodePipeline_48.svg" alt="AWS CodePipeline" width="40" height="40"/>
-  </a>
-  <a href="https://bitbucket.org/product/features/pipelines" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket Pipelines" width="40" height="40"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
