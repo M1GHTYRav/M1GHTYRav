@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Pasan Ravindu</h1>
 <h3 align="center">A passionate DevOps Engineer from Sri Lanka</h3>
 
