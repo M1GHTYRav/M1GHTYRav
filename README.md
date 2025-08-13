@@ -18,11 +18,8 @@
 <a href="https://medium.com/@pasantrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pasantrp" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">DevOps Tools & Platforms:</h3>
-
-<!-- Cloud Platforms -->
+<h3 align="left">Cloud Platforms:</h3>
 <p align="left">
-  <strong>Cloud Platforms:</strong>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
@@ -37,56 +34,35 @@
   </a>
 </p>
 
-<!-- Infrastructure as Code -->
+<h3 align="left">DevOps Tools & Technologies:</h3>
 <p align="left">
-  <strong>Infrastructure as Code (IaC):</strong>
+  <!-- IaC -->
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
-    <img src="https://images.icon-icons.com/2699/PNG/512/amazon_cloudformation_logo_icon_169610.png" alt="AWS CloudFormation" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/aws/aws-icons/master/Architecture-Service-Icons/Arch_AWS-CloudFormation_48.svg" alt="AWS CloudFormation" width="40" height="40"/>
   </a>
-</p>
 
-<!-- Linux System Administration -->
-<p align="left">
-  <strong>Linux System Administration:</strong>
-  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="RHEL" width="40" height="40"/>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/amazon-linux-ami/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/29548126?s=200&v=4" alt="Amazon Linux" width="40" height="40" style="background:#fff; padding:4px; border-radius:8px;"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40"/>
-  </a>
-  <a href="https://www.centos.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original-wordmark.svg" alt="CentOS" width="40" height="40"/>
-  </a>
-</p>
 
-<!-- Servers -->
-<p align="left">
-  <strong>Servers:</strong>
+  <!-- Servers -->
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   </a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" height="40"/>
   </a>
-</p>
 
-<!-- Containerization -->
-<p align="left">
-  <strong>Containerization:</strong>
+  <!-- Containers -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
-</p>
 
-<!-- Databases -->
-<p align="left">
-  <strong>Databases:</strong>
+  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
@@ -96,11 +72,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
-</p>
 
-<!-- Monitoring -->
-<p align="left">
-  <strong>Monitoring:</strong>
+  <!-- Monitoring -->
   <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="AWS CloudWatch" width="40" height="40"/>
   </a>
@@ -119,11 +92,8 @@
   <a href="https://icinga.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Icinga_Logo.svg" alt="Icinga" width="40" height="40" style="background:#fff; padding:4px; border-radius:8px;"/>
   </a>
-</p>
 
-<!-- Security -->
-<p align="left">
-  <strong>Security:</strong>
+  <!-- Security -->
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tenable/tenable-icon.svg" alt="Nessus Professional" width="40" height="40"/>
   </a>
@@ -136,11 +106,8 @@
   <a href="https://pritunl.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pritunl_logo.png/512px-Pritunl_logo.png" alt="Pritunl" width="40" height="40" style="background:#fff; padding:4px; border-radius:8px;"/>
   </a>
-</p>
 
-<!-- IoT -->
-<p align="left">
-  <strong>IoT:</strong>
+  <!-- IoT -->
   <a href="https://aws.amazon.com/iot-core/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/aws/aws-icons/master/Architecture-Service-Icons/Arch_AWS-IoT-Core_48.svg" alt="AWS IoT Core" width="40" height="40"/>
   </a>
@@ -150,11 +117,8 @@
   <a href="https://www.raspberrypi.com/products/raspberry-pi-pico/" target="_blank" rel="noreferrer">
     <img src="https://www.raspberrypi.com/app/uploads/2018/03/Raspberry-Pi-Logo.png" alt="Raspberry Pi Pico" width="40" height="40"/>
   </a>
-</p>
 
-<!-- CI/CD -->
-<p align="left">
-  <strong>CI/CD:</strong>
+  <!-- CI/CD -->
   <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Workflows" width="40" height="40"/>
   </a>
@@ -167,11 +131,8 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
-</p>
 
-<!-- Automation -->
-<p align="left">
-  <strong>Automation:</strong>
+  <!-- Automation -->
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
   </a>
