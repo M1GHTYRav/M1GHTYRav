@@ -19,6 +19,183 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<!-- Cloud Platforms -->
+<p align="left">
+  <strong>Cloud Platforms:</strong>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+  </a>
+  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="40" height="40"/>
+  </a>
+  <a href="https://www.vultr.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vultr/vultr-icon.svg" alt="Vultr" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Infrastructure as Code -->
+<p align="left">
+  <strong>IaC:</strong>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/awsdocs/aws-cloudformation-user-guide/main/doc_source/images/cloudformation.svg" alt="CloudFormation" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Linux System Administration -->
+<p align="left">
+  <strong>Linux System Administration:</strong>
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="RHEL" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/amazon-linux-ami/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/29548126?s=200&v=4" alt="Amazon Linux" width="40" height="40"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40"/>
+  </a>
+  <a href="https://www.centos.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original-wordmark.svg" alt="CentOS" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Servers -->
+<p align="left">
+  <strong>Servers:</strong>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  </a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Containerization -->
+<p align="left">
+  <strong>Containerization:</strong>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Databases -->
+<p align="left">
+  <strong>Databases:</strong>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Project & Issue Tracking -->
+<p align="left">
+  <strong>Project & Issue Tracking:</strong>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
+  </a>
+  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://freshdesk.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/freshdesk/freshdesk-icon.svg" alt="FreshDesk" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Monitoring -->
+<p align="left">
+  <strong>Monitoring:</strong>
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="CloudWatch" width="40" height="40"/>
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://www.nagios.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="Nagios" width="40" height="40"/>
+  </a>
+  <a href="https://icinga.com/" target="_blank" rel="noreferrer">
+    <img src="https://icinga.com/wp-content/uploads/2014/06/icinga_logo.png" alt="Icinga" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Security -->
+<p align="left">
+  <strong>Security:</strong>
+  <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tenable/tenable-icon.svg" alt="Nessus Professional" width="40" height="40"/>
+  </a>
+  <a href="https://goteleport.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/13284804?s=200&v=4" alt="Teleport" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/vpn/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws_vpn/amazon_aws_vpn-icon.svg" alt="AWS VPN" width="40" height="40"/>
+  </a>
+  <a href="https://pritunl.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pritunl/pritunl-icon.svg" alt="Pritunl" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- IoT -->
+<p align="left">
+  <strong>IoT:</strong>
+  <a href="https://aws.amazon.com/iot-core/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws_iot/amazon_aws_iot-icon.svg" alt="AWS IoT Core" width="40" height="40"/>
+  </a>
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
+    <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-black.svg" alt="ESP32" width="40" height="40"/>
+  </a>
+  <a href="https://www.raspberrypi.com/products/raspberry-pi-pico/" target="_blank" rel="noreferrer">
+    <img src="https://www.raspberrypi.com/app/uploads/2020/12/RPi-Logo-Reg-SCREEN.png" alt="Raspberry Pi Pico" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- CI/CD -->
+<p align="left">
+  <strong>CI/CD:</strong>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Workflows" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/codepipeline/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws_codepipeline/amazon_aws_codepipeline-icon.svg" alt="AWS CodePipeline" width="40" height="40"/>
+  </a>
+  <a href="https://bitbucket.org/product/features/pipelines" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket Pipelines" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Automation -->
+<p align="left">
+  <strong>Automation:</strong>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
+  </a>
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
+  </a>
+</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1ghtyrav&show_icons=true&locale=en&layout=compact" alt="m1ghtyrav" /></p>
