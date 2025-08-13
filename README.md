@@ -44,7 +44,7 @@
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aws/aws-icons/master/Architecture-Service-Icons/Arch_AWS-CloudFormation_48.svg" alt="AWS CloudFormation" width="40" height="40"/>
+    <img src="https://images.icon-icons.com/2699/PNG/512/amazon_cloudformation_logo_icon_169610.png" alt="AWS CloudFormation" width="40" height="40"/>
   </a>
 </p>
 
