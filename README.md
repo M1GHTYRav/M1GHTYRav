@@ -29,9 +29,6 @@
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="40" height="40"/>
   </a>
-  <a href="https://www.vultr.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/V/vultr-logo-DA1A57E5F1-seeklogo.com.png" alt="Vultr" width="40" height="40" style="background:#fff; padding:4px; border-radius:8px;"/>
-  </a>
 </p>
 
 <h3 align="left">DevOps Tools & Technologies:</h3>
