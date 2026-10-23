@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Jenkins CI/CD Pipeline with SonarQube, Nexus, Docker, ECS, Slack**
 - 🌱 I’m currently learning **Python, N8N, and Ansible**
 - 👯 I’m looking to collaborate on **Cloud and Automation Projects**
-- 🤝 I’m looking for help with **DevOps and Cloud**
+- 🤝 I’m looking to help with **DevOps and Cloud**
 - 📝 I regularly write articles on [https://medium.com/@pasantrp](https://medium.com/@pasantrp)
 - 💬 Ask me about **AWS, Linux or Terraform**
 - 📫 How to reach me **pasantrp@gmail.com**
